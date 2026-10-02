@@ -1,0 +1,22 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+}
+.navbar .nav-item{
+color: #fff;
+padding: 12px 24px;
+font-size: 15px;
+background: none;
+border: none;
+cursor: pointer;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.nav-item:hover{
+    background-color: #ccc;
+    color: #000;
+}

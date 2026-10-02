@@ -1,0 +1,16 @@
+.hero{
+    background: url(../imagens/photo.avif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-caption{
+    text-align: center;
+    color: #fff;
+}
